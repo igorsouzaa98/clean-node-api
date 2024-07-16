@@ -16,6 +16,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.13.0",
+    "@types/validator": "^13.12.0",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "eslint": "^8.0.1",
     "eslint-config-airbnb-base": "^15.0.0",
@@ -33,5 +34,8 @@
     "prettier": "^3.2.5",
     "ts-jest": "^29.1.4",
     "typescript": "*"
+  },
+  "dependencies": {
+    "validator": "^13.12.0"
   }
 }
